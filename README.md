@@ -44,13 +44,13 @@
 
 - [ ] get your “dream job” (if you have one)
 
-- [ ] work at a prestigious company
+- [x] work at a prestigious company
 
 - [x] work at a very small company
 
 - [ ] work at a company for a really long time (to see how things play out over time)
 
-- [ ] work at a company who values you a lot
+- [x] work at a company who values you a lot
 
 - [ ] work at lots of different companies (to get lots of different perspectives)
 
@@ -100,15 +100,15 @@
 
 - [ ] do work that helps solve an important problem (climate change, etc)
 
-- [ ] work in a team/project whose product affects more than a million people
+- [x] work in a team/project whose product affects more than a million people
 
-- [ ] work on a product that people love
+- [x] work on a product that people love
 
 - [ ] build developer tools
 
 ## People/Leadership Goals - [5/7]
 
-- [ ] help new people on your team get started
+- [x] help new people on your team get started
 
 - [ ] help someone get a job/opportunity that they wouldn’t have had otherwise
 
@@ -154,10 +154,10 @@
 
 - [ ] work in a place where you feel accepted/included
 
-- [ ] work with people who share your values (this involves knowing what your values are! :) )
+- [ ] work with people who share your values (this involves knowing what your values are! :) - Fairness, Joy, Learning, Determination)
 
 - [x] work with people who are very experienced / skilled
 
-- [ ] have good health insurance / benefits
+- [x] have good health insurance / benefits
 
 - [ ] make X amount of money
